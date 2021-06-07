@@ -14,7 +14,7 @@ Algoritmo Ejercicio10
 		SiNo
 			Si num > 0 &num  <11 Entonces
 				sumaIntervalo = sumaIntervalo + num
-				
+				suma = suma + num
 			SiNo
 				suma = suma + num
 				Escribir suma
