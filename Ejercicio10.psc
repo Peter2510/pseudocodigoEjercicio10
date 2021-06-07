@@ -10,13 +10,17 @@ Algoritmo Ejercicio10
 		
 		Si multiplos = 0 Entonces
 			contadorMultiplos = contadorMultiplos + 1
+			suma = suma + num
 		SiNo
 			Si num > 0 &num  <11 Entonces
-				acciones_por_verdadero
+				sumaIntervalo = sumaIntervalo + num
+				
 			SiNo
-				acciones_por_falso
+				
 			Fin Si
 		Fin Si
+		
+		
 	Fin Mientras
 	
 FinAlgoritmo
