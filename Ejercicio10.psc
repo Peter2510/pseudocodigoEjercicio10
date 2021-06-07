@@ -21,7 +21,7 @@ Algoritmo Ejercicio10
 			Fin Si
 		Fin Si
 		
-		
+		Escribir " La cantidad de numeros multiplos de 6 es: ", contadorMultiplos, " , la suma de los números entre 1 y 10 incluyendolos es de: ", sumaIntervalo, " y la suma total es de: ", suma
 	Fin Mientras
 	
 FinAlgoritmo
