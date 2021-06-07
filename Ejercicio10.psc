@@ -16,7 +16,8 @@ Algoritmo Ejercicio10
 				sumaIntervalo = sumaIntervalo + num
 				
 			SiNo
-				
+				suma = suma + num
+				Escribir suma
 			Fin Si
 		Fin Si
 		
